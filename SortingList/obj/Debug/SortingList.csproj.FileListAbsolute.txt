@@ -1,0 +1,7 @@
+D:\Programming\USED\SortingList\bin\Debug\SortingList.exe.config
+D:\Programming\USED\SortingList\bin\Debug\SortingList.exe
+D:\Programming\USED\SortingList\bin\Debug\SortingList.pdb
+D:\Programming\USED\SortingList\obj\Debug\SortingList.csproj.AssemblyReference.cache
+D:\Programming\USED\SortingList\obj\Debug\SortingList.csproj.CoreCompileInputs.cache
+D:\Programming\USED\SortingList\obj\Debug\SortingList.exe
+D:\Programming\USED\SortingList\obj\Debug\SortingList.pdb
