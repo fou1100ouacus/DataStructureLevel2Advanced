@@ -1,0 +1,7 @@
+D:\Programming\USED\Boxing\bin\Debug\Boxing.exe.config
+D:\Programming\USED\Boxing\bin\Debug\Boxing.exe
+D:\Programming\USED\Boxing\bin\Debug\Boxing.pdb
+D:\Programming\USED\Boxing\obj\Debug\Boxing.csproj.AssemblyReference.cache
+D:\Programming\USED\Boxing\obj\Debug\Boxing.csproj.CoreCompileInputs.cache
+D:\Programming\USED\Boxing\obj\Debug\Boxing.exe
+D:\Programming\USED\Boxing\obj\Debug\Boxing.pdb
