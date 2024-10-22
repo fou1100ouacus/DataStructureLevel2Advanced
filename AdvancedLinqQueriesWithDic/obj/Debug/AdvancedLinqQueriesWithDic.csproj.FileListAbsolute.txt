@@ -1,0 +1,7 @@
+D:\Programming\USED\AdvancedLinqQueriesWithDic\bin\Debug\AdvancedLinqQueriesWithDic.exe.config
+D:\Programming\USED\AdvancedLinqQueriesWithDic\bin\Debug\AdvancedLinqQueriesWithDic.exe
+D:\Programming\USED\AdvancedLinqQueriesWithDic\bin\Debug\AdvancedLinqQueriesWithDic.pdb
+D:\Programming\USED\AdvancedLinqQueriesWithDic\obj\Debug\AdvancedLinqQueriesWithDic.csproj.AssemblyReference.cache
+D:\Programming\USED\AdvancedLinqQueriesWithDic\obj\Debug\AdvancedLinqQueriesWithDic.csproj.CoreCompileInputs.cache
+D:\Programming\USED\AdvancedLinqQueriesWithDic\obj\Debug\AdvancedLinqQueriesWithDic.exe
+D:\Programming\USED\AdvancedLinqQueriesWithDic\obj\Debug\AdvancedLinqQueriesWithDic.pdb
