@@ -1,0 +1,7 @@
+D:\Programming\Course22and23\Listofobjects\bin\Debug\Listofobjects.exe.config
+D:\Programming\Course22and23\Listofobjects\bin\Debug\Listofobjects.exe
+D:\Programming\Course22and23\Listofobjects\bin\Debug\Listofobjects.pdb
+D:\Programming\Course22and23\Listofobjects\obj\Debug\Listofobjects.csproj.AssemblyReference.cache
+D:\Programming\Course22and23\Listofobjects\obj\Debug\Listofobjects.csproj.CoreCompileInputs.cache
+D:\Programming\Course22and23\Listofobjects\obj\Debug\Listofobjects.exe
+D:\Programming\Course22and23\Listofobjects\obj\Debug\Listofobjects.pdb
