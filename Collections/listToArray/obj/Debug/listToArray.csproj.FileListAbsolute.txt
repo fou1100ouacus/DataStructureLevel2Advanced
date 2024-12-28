@@ -1,0 +1,7 @@
+D:\Programming\Course22and23\listToArray\bin\Debug\listToArray.exe.config
+D:\Programming\Course22and23\listToArray\bin\Debug\listToArray.exe
+D:\Programming\Course22and23\listToArray\bin\Debug\listToArray.pdb
+D:\Programming\Course22and23\listToArray\obj\Debug\listToArray.csproj.AssemblyReference.cache
+D:\Programming\Course22and23\listToArray\obj\Debug\listToArray.csproj.CoreCompileInputs.cache
+D:\Programming\Course22and23\listToArray\obj\Debug\listToArray.exe
+D:\Programming\Course22and23\listToArray\obj\Debug\listToArray.pdb
