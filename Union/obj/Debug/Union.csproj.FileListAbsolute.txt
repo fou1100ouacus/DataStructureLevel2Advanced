@@ -1,0 +1,7 @@
+D:\Programming\Course22and23\Union\bin\Debug\Union.exe.config
+D:\Programming\Course22and23\Union\bin\Debug\Union.exe
+D:\Programming\Course22and23\Union\bin\Debug\Union.pdb
+D:\Programming\Course22and23\Union\obj\Debug\Union.csproj.AssemblyReference.cache
+D:\Programming\Course22and23\Union\obj\Debug\Union.csproj.CoreCompileInputs.cache
+D:\Programming\Course22and23\Union\obj\Debug\Union.exe
+D:\Programming\Course22and23\Union\obj\Debug\Union.pdb
