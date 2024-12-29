@@ -1,0 +1,7 @@
+D:\Programming\Course22and23\Sorted List\obj\Debug\Sorted List.csproj.AssemblyReference.cache
+D:\Programming\Course22and23\Sorted List\obj\Debug\Sorted List.csproj.CoreCompileInputs.cache
+D:\Programming\Course22and23\Sorted List\bin\Debug\Sorted List.exe.config
+D:\Programming\Course22and23\Sorted List\bin\Debug\Sorted List.exe
+D:\Programming\Course22and23\Sorted List\bin\Debug\Sorted List.pdb
+D:\Programming\Course22and23\Sorted List\obj\Debug\Sorted List.exe
+D:\Programming\Course22and23\Sorted List\obj\Debug\Sorted List.pdb
