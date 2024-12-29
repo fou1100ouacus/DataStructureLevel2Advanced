@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E165FA12-695D-4B06-9EAD-8F5993060EB4}</ProjectGuid>
+    <ProjectGuid>{689C2B83-33EC-49E0-AF23-BE22EAE4D203}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>HashSet</RootNamespace>
     <AssemblyName>HashSet</AssemblyName>
