@@ -1,0 +1,7 @@
+D:\Programming\Course22and23\SortedListWithLinq\bin\Debug\SortedListWithLinq.exe.config
+D:\Programming\Course22and23\SortedListWithLinq\bin\Debug\SortedListWithLinq.exe
+D:\Programming\Course22and23\SortedListWithLinq\bin\Debug\SortedListWithLinq.pdb
+D:\Programming\Course22and23\SortedListWithLinq\obj\Debug\SortedListWithLinq.csproj.AssemblyReference.cache
+D:\Programming\Course22and23\SortedListWithLinq\obj\Debug\SortedListWithLinq.csproj.CoreCompileInputs.cache
+D:\Programming\Course22and23\SortedListWithLinq\obj\Debug\SortedListWithLinq.exe
+D:\Programming\Course22and23\SortedListWithLinq\obj\Debug\SortedListWithLinq.pdb
