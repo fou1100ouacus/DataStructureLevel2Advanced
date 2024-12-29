@@ -1,0 +1,7 @@
+D:\Programming\Course22and23\Aggregate Functions in ArrayList\bin\Debug\Aggregate Functions in ArrayList.exe.config
+D:\Programming\Course22and23\Aggregate Functions in ArrayList\bin\Debug\Aggregate Functions in ArrayList.exe
+D:\Programming\Course22and23\Aggregate Functions in ArrayList\bin\Debug\Aggregate Functions in ArrayList.pdb
+D:\Programming\Course22and23\Aggregate Functions in ArrayList\obj\Debug\Aggregate Functions in ArrayList.csproj.AssemblyReference.cache
+D:\Programming\Course22and23\Aggregate Functions in ArrayList\obj\Debug\Aggregate Functions in ArrayList.csproj.CoreCompileInputs.cache
+D:\Programming\Course22and23\Aggregate Functions in ArrayList\obj\Debug\Aggregate Functions in ArrayList.exe
+D:\Programming\Course22and23\Aggregate Functions in ArrayList\obj\Debug\Aggregate Functions in ArrayList.pdb
