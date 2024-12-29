@@ -1,0 +1,7 @@
+D:\Programming\Course22and23\TryGetValue Method in Dictionaries\bin\Debug\TryGetValue Method in Dictionaries.exe.config
+D:\Programming\Course22and23\TryGetValue Method in Dictionaries\bin\Debug\TryGetValue Method in Dictionaries.exe
+D:\Programming\Course22and23\TryGetValue Method in Dictionaries\bin\Debug\TryGetValue Method in Dictionaries.pdb
+D:\Programming\Course22and23\TryGetValue Method in Dictionaries\obj\Debug\TryGetValue Method in Dictionaries.csproj.AssemblyReference.cache
+D:\Programming\Course22and23\TryGetValue Method in Dictionaries\obj\Debug\TryGetValue Method in Dictionaries.csproj.CoreCompileInputs.cache
+D:\Programming\Course22and23\TryGetValue Method in Dictionaries\obj\Debug\TryGetValue Method in Dictionaries.exe
+D:\Programming\Course22and23\TryGetValue Method in Dictionaries\obj\Debug\TryGetValue Method in Dictionaries.pdb

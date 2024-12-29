@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryGetValue Method in Dictionaries", "TryGetValue Method in Dictionaries.csproj", "{427A71EB-035B-479D-BCE3-6D1240976B9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilizing LINQ with Dictionaries", "..\Utilizing LINQ with Dictionaries\Utilizing LINQ with Dictionaries.csproj", "{2D62D2A0-8116-489B-8E2D-404B5BEA446C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{427A71EB-035B-479D-BCE3-6D1240976B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{427A71EB-035B-479D-BCE3-6D1240976B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{427A71EB-035B-479D-BCE3-6D1240976B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{427A71EB-035B-479D-BCE3-6D1240976B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D62D2A0-8116-489B-8E2D-404B5BEA446C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D62D2A0-8116-489B-8E2D-404B5BEA446C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D62D2A0-8116-489B-8E2D-404B5BEA446C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D62D2A0-8116-489B-8E2D-404B5BEA446C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AE33409-B864-4AC2-94B8-70C632358E99}
+	EndGlobalSection
+EndGlobal
