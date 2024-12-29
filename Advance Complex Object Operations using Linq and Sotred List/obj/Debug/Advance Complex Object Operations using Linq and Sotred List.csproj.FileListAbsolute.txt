@@ -1,0 +1,7 @@
+D:\Programming\Course22and23\Advance Complex Object Operations using Linq and Sotred List\obj\Debug\Advance Complex Object Operations using Linq and Sotred List.csproj.AssemblyReference.cache
+D:\Programming\Course22and23\Advance Complex Object Operations using Linq and Sotred List\obj\Debug\Advance Complex Object Operations using Linq and Sotred List.csproj.CoreCompileInputs.cache
+D:\Programming\Course22and23\Advance Complex Object Operations using Linq and Sotred List\bin\Debug\Advance Complex Object Operations using Linq and Sotred List.exe.config
+D:\Programming\Course22and23\Advance Complex Object Operations using Linq and Sotred List\bin\Debug\Advance Complex Object Operations using Linq and Sotred List.exe
+D:\Programming\Course22and23\Advance Complex Object Operations using Linq and Sotred List\bin\Debug\Advance Complex Object Operations using Linq and Sotred List.pdb
+D:\Programming\Course22and23\Advance Complex Object Operations using Linq and Sotred List\obj\Debug\Advance Complex Object Operations using Linq and Sotred List.exe
+D:\Programming\Course22and23\Advance Complex Object Operations using Linq and Sotred List\obj\Debug\Advance Complex Object Operations using Linq and Sotred List.pdb
