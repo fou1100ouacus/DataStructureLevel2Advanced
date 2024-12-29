@@ -1,0 +1,7 @@
+D:\Programming\Course22and23\SortedSet operations\bin\Debug\SortedSet operations.exe.config
+D:\Programming\Course22and23\SortedSet operations\bin\Debug\SortedSet operations.exe
+D:\Programming\Course22and23\SortedSet operations\bin\Debug\SortedSet operations.pdb
+D:\Programming\Course22and23\SortedSet operations\obj\Debug\SortedSet operations.csproj.AssemblyReference.cache
+D:\Programming\Course22and23\SortedSet operations\obj\Debug\SortedSet operations.csproj.CoreCompileInputs.cache
+D:\Programming\Course22and23\SortedSet operations\obj\Debug\SortedSet operations.exe
+D:\Programming\Course22and23\SortedSet operations\obj\Debug\SortedSet operations.pdb
