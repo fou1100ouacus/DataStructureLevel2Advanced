@@ -1,0 +1,7 @@
+D:\Programming\Course22and23\Utilizing LINQ with Dictionaries\bin\Debug\Utilizing LINQ with Dictionaries.exe.config
+D:\Programming\Course22and23\Utilizing LINQ with Dictionaries\bin\Debug\Utilizing LINQ with Dictionaries.exe
+D:\Programming\Course22and23\Utilizing LINQ with Dictionaries\bin\Debug\Utilizing LINQ with Dictionaries.pdb
+D:\Programming\Course22and23\Utilizing LINQ with Dictionaries\obj\Debug\Utilizing LINQ with Dictionaries.csproj.AssemblyReference.cache
+D:\Programming\Course22and23\Utilizing LINQ with Dictionaries\obj\Debug\Utilizing LINQ with Dictionaries.csproj.CoreCompileInputs.cache
+D:\Programming\Course22and23\Utilizing LINQ with Dictionaries\obj\Debug\Utilizing LINQ with Dictionaries.exe
+D:\Programming\Course22and23\Utilizing LINQ with Dictionaries\obj\Debug\Utilizing LINQ with Dictionaries.pdb
