@@ -1,7 +1,4 @@
 
-m
-
-
 # Data Structures in C# Repository
 
 Welcome to the **Data Structures in C#** repository! This repository provides comprehensive coverage of various collections and data structures in C#. It covers everything from basic lists to advanced collections like Hashtables, Dictionaries, and HashSets, alongside practical examples and explanations. 
